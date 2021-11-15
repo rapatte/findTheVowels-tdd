@@ -1,0 +1,19 @@
+{
+  "name": "findthevowels-tdd",
+  "version": "1.0.0",
+  "description": "fonction qui renvoie le nombre de voyelles contenues dans une chaine de caracteres",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/findTheVowels-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/findTheVowels-tdd/issues"
+  },
+  "homepage": "https://github.com/rapatte/findTheVowels-tdd#readme"
+}
